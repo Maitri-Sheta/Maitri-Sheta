@@ -89,26 +89,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Maitri-Sheta&theme=tokyonight&row=1&column=7"/>
-
-</p>
-
----
-
-## 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Maitri-Sheta&theme=tokyo-night"/>
-
-</p>
-
----
-
 ## 📚 Currently Exploring
 
 ✔ Microsoft Fabric
